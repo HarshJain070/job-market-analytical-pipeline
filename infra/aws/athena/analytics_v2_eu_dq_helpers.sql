@@ -1,0 +1,2 @@
+-- Removed (dea final 6 catalog prune): v2_eu_silver_remote_classified_monthly, v2_eu_gold_skill_rows_monthly.
+-- Do not deploy; KPI slice is in analytics_v2_eu_kpi_slice.sql.

@@ -1,0 +1,2 @@
+-- Removed (dea final 6 catalog prune): v2_in_silver_remote_classified_monthly, v2_in_gold_skill_rows_monthly.
+-- Do not deploy; KPI slice is in analytics_v2_adzuna_kpi_slice.sql.

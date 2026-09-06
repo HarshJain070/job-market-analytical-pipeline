@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+__MACOSX/
+.venv/
+venv/
+.env
+data/
+Archive.zip
+infra/aws/lambda/build/
+infra/aws/lambda/dist/
